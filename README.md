@@ -165,3 +165,14 @@ File JSON ini digunakan sebagai penyimpanan lokal untuk keperluan mini project.
 ## 10. Catatan
 
 Pastikan dependensi backend dan frontend sudah diinstal sebelum menjalankan aplikasi. Jangan mengunggah folder virtual environment atau `node_modules` ke repositori Git.
+
+## 11. Pengujian Aplikasi
+
+Pengujian dilakukan untuk memastikan fitur utama aplikasi berjalan dengan baik, meliputi:
+
+- Menampilkan data produk dari backend.
+- Mencari dan mengurutkan produk.
+- Menambah, mengubah, dan menghapus produk.
+- Memeriksa validasi input.
+- Memastikan perubahan tersimpan pada file JSON.
+- Memeriksa tampilan pada desktop dan perangkat mobile.
