@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nama_produk": "Samsung Galaxy A55",
+    "kategori": "Smartphone",
+    "stok": 15,
+    "harga": 5499000
+  },
+  {
+    "id": 2,
+    "nama_produk": "iPhone 15",
+    "kategori": "Smartphone",
+    "stok": 8,
+    "harga": 12999000
+  },
+  {
+    "id": 3,
+    "nama_produk": "Xiaomi Redmi Note 14",
+    "kategori": "Smartphone",
+    "stok": 20,
+    "harga": 2799000
+  },
+  {
+    "id": 4,
+    "nama_produk": "OPPO Reno 12",
+    "kategori": "Smartphone",
+    "stok": 4,
+    "harga": 5999000
+  },
+  {
+    "id": 5,
+    "nama_produk": "ASUS Vivobook 14",
+    "kategori": "Laptop",
+    "stok": 7,
+    "harga": 8499000
+  },
+  {
+    "id": 6,
+    "nama_produk": "Lenovo IdeaPad Slim 3",
+    "kategori": "Laptop",
+    "stok": 12,
+    "harga": 6999000
+  },
+  {
+    "id": 7,
+    "nama_produk": "MacBook Air M3",
+    "kategori": "Laptop",
+    "stok": 3,
+    "harga": 16999000
+  },
+  {
+    "id": 8,
+    "nama_produk": "Acer Aspire 5",
+    "kategori": "Laptop",
+    "stok": 0,
+    "harga": 7999000
+  },
+  {
+    "id": 9,
+    "nama_produk": "LG UltraGear 24GN60R",
+    "kategori": "Monitor",
+    "stok": 6,
+    "harga": 2399000
+  },
+  {
+    "id": 10,
+    "nama_produk": "Samsung Smart Monitor M5",
+    "kategori": "Monitor",
+    "stok": 9,
+    "harga": 2199000
+  },
+  {
+    "id": 11,
+    "nama_produk": "Logitech MX Master 3S",
+    "kategori": "Aksesoris",
+    "stok": 5,
+    "harga": 1599000
+  },
+  {
+    "id": 12,
+    "nama_produk": "Logitech K380",
+    "kategori": "Aksesoris",
+    "stok": 18,
+    "harga": 499000
+  },
+  {
+    "id": 13,
+    "nama_produk": "Razer DeathAdder Essential",
+    "kategori": "Aksesoris",
+    "stok": 25,
+    "harga": 299000
+  },
+  {
+    "id": 14,
+    "nama_produk": "Sony WH-1000XM5",
+    "kategori": "Audio",
+    "stok": 4,
+    "harga": 4999000
+  },
+  {
+    "id": 15,
+    "nama_produk": "JBL Tune 520BT",
+    "kategori": "Audio",
+    "stok": 14,
+    "harga": 699000
+  },
+  {
+    "id": 16,
+    "nama_produk": "Anker Soundcore R50i",
+    "kategori": "Audio",
+    "stok": 30,
+    "harga": 249000
+  },
+  {
+    "id": 17,
+    "nama_produk": "Canon PIXMA G3010",
+    "kategori": "Printer",
+    "stok": 2,
+    "harga": 2499000
+  },
+  {
+    "id": 18,
+    "nama_produk": "Epson L3250",
+    "kategori": "Printer",
+    "stok": 0,
+    "harga": 2799000
+  },
+  {
+    "id": 19,
+    "nama_produk": "TP-Link Archer AX23",
+    "kategori": "Jaringan",
+    "stok": 11,
+    "harga": 899000
+  },
+  {
+    "id": 20,
+    "nama_produk": "Sandisk Extreme Portable SSD 1TB",
+    "kategori": "Penyimpanan",
+    "stok": 6,
+    "harga": 1899000
+  }
+]
